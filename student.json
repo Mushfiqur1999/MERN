@@ -1,0 +1,96 @@
+[
+ {
+  "name":"Mushfiqur Rahman",
+  "user_name":"mushfiqur1234",
+  "email":"mushfiqur@gmail.com",
+  "mobile no":"01780783978",
+  "dob":"30/11/1999",
+  "gender":"male",
+  "password":"12345678"
+ },
+ 
+  {
+  "name":"abdur Rahman",
+  "user_name":"abdur123",
+  "email":"abdur@gmail.com",
+  "mobile no":"01646137087",
+  "dob":"25/10/1999",
+  "gender":"male",
+  "password":"12345678"
+ },
+ 
+  {
+  "name":"Minhaz Uddin",
+  "user_name":"minhaz1234",
+  "email":"minhaz@gmail.com",
+  "mobile no":"01780785080",
+  "dob":"04/09/1995",
+  "gender":"male",
+  "password":"12345678"
+ },
+ 
+  {
+  "name":"Mushfiqur Rahman",
+  "user_name":"mushfiqur1234",
+  "email":"mushfiqur@gmail.com",
+  "mobile no":"01780783978",
+  "dob":"30/11/1999",
+  "gender":"male",
+  "password":"87654321"
+ },
+ 
+  {
+  "name":"Mahmud Hasan",
+  "user_name":"mahmud1234",
+  "email":"mahmud@gmail.com",
+  "mobile no":"017635201872",
+  "dob":"30/02/1996",
+  "gender":"male",
+  "password":"11111111"
+ },
+ 
+ 
+  {
+  "name":"Nur Mohmad",
+  "user_name":"nur1122",
+  "email":"nur@gmail.com",
+  "mobile no":"01956127841",
+  "dob":"21/07/1998",
+  "gender":"male",
+  "password":"11223344"
+ },
+ 
+ 
+  {
+  "name":"Khadija Mili",
+  "user_name":"khadija1999",
+  "email":"khadija@gmail.com",
+  "mobile no":"01750267841",
+  "dob":"12/01/1999",
+  "gender":"female",
+  "password":"362514"
+ },
+ 
+ 
+  {
+  "name":"Tanvir Khan",
+  "user_name":"tanvir9988",
+  "email":"tanvir@gmail.com",
+  "mobile no":"01925874521",
+  "dob":"12/08/1997",
+  "gender":"male",
+  "password":"11224455"
+ },
+ 
+ 
+  {
+  "name":"Mitu Islam",
+  "user_name":"mitu2002",
+  "email":"mitu@gmail.com",
+  "mobile no":"01780783978",
+  "dob":"30/11/2002",
+  "gender":"Female",
+  "password":"99887766"
+ }
+
+]
